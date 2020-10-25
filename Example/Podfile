@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QuickBlurView_Example' do
+  pod 'QuickBlurView', :path => '../'
+
+  target 'QuickBlurView_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
