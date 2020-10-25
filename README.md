@@ -11,6 +11,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+![demo](/demo.gif)
+
 ## Installation
 
 QuickBlurView is available through [CocoaPods](https://cocoapods.org). To install
