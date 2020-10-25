@@ -1,7 +1,7 @@
 {
   "name": "QuickBlurView",
   "version": "0.1.0",
-  "summary": "A short description of QuickBlurView.",
+  "summary": "blur view",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/LuoYangCan/QuickBlurView",
   "license": {
@@ -16,7 +16,7 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
   "source_files": "QuickBlurView/Classes/**/*"
 }
