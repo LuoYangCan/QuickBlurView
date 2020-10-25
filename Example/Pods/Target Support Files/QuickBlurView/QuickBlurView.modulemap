@@ -1,0 +1,6 @@
+framework module QuickBlurView {
+  umbrella header "QuickBlurView-umbrella.h"
+
+  export *
+  module * { export * }
+}
